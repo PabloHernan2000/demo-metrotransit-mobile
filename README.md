@@ -1,3 +1,9 @@
+<div align="right">
+  <strong>Language / Idioma:</strong>&nbsp;
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-10B981?style=flat-square" alt="English"/></a>&nbsp;
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-64748B?style=flat-square" alt="Español"/></a>
+</div>
+
 # MetroTransit Mobile — Smart Fleet & Transit Telemetry
 
 > Production-grade React Native 0.87 (React 19 / TypeScript) mobile client engineered for real-time metropolitan fleet telematics, high-frequency geospatial rendering, and hardware-backed biometric security.
