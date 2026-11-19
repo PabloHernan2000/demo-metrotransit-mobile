@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MetroTransit</string>
+    <string name="google_maps_api_key">AIzaSyDUMMY_KEY_FOR_DEMO_PURPOSES_ONLY</string>
+</resources>

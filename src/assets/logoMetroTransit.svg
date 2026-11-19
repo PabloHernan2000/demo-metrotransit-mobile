@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <rect width="200" height="60" rx="12" fill="#0F172A"/>
+  <circle cx="36" cy="30" r="16" fill="#3B82F6"/>
+  <path d="M26 30 L33 23 L43 23 L46 30 L43 37 L29 37 Z" fill="#FFFFFF"/>
+  <circle cx="31" cy="34" r="2" fill="#0F172A"/>
+  <circle cx="41" cy="34" r="2" fill="#0F172A"/>
+  <text x="64" y="36" fill="#F8FAFC" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700">MetroTransit</text>
+</svg>
